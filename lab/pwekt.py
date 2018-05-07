@@ -1,0 +1,12 @@
+A = matrix(QQ, [[1,2,3],[4,5,6],[7,8,9]])
+A.column_space()
+A.column_space().basis()[0].column()
+A.column_space().basis()[1].column()
+A.right_kernel()
+A.row_space()
+A.transpose().column_space() == A.row_space()
+A.left_kernel()
+v1 = vector([1,0,2]); v2 = vector([1,1,3]);
+V = span([v1,v2], QQ)
+V.dimension()
+V.basis()
