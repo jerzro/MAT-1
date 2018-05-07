@@ -9,4 +9,3 @@ A*sol == 0 #spr
 a = var('a')
 sol = x0 + a * sol
 A*sol == b #spr
-
