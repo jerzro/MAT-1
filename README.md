@@ -1,2 +1,2 @@
 # MAT-1
-algebra i geometria analityczna
+teoria zbiorów, algebra liniowa i geometria analityczna
