@@ -1,2 +1,2 @@
-# aga
-alebra i geometria analityczna
+# MAT-1
+algebra i geometria analityczna
